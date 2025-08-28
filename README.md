@@ -10,7 +10,7 @@ The solution is data export from Jira
 
 User Stories:
 
-https://rusau.kaiten.ru/p/d/731b641b-545d-4311-a691-c397a21eb1bd
-https://rusau.kaiten.ru/p/d/1c04eafd-86f6-4a21-85cd-1fbf8d3be706
-https://rusau.kaiten.ru/p/d/1f464f17-8de7-4f54-992c-11e9fa5fd646
-https://rusau.kaiten.ru/p/d/d440e1db-3645-48f3-8510-686704dcf09c
+1. https://rusau.kaiten.ru/p/d/731b641b-545d-4311-a691-c397a21eb1bd
+2. https://rusau.kaiten.ru/p/d/1c04eafd-86f6-4a21-85cd-1fbf8d3be706
+3. https://rusau.kaiten.ru/p/d/1f464f17-8de7-4f54-992c-11e9fa5fd646
+4. https://rusau.kaiten.ru/p/d/d440e1db-3645-48f3-8510-686704dcf09c
